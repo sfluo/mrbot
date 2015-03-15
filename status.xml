@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statuses type="array" xmlns:statusnet="http://status.net/schema/api/1/">
+ <status>
+  <text>$SF$1$ACK#201210281114$SF$</text>
+  <truncated>false</truncated>
+  <created_at>Mon Oct 29 03:32:25 +0000 2012</created_at>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <source>api</source>
+  <id>3</id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <geo></geo>
+  <favorited>false</favorited>
+  <user>
+   <id>2</id>
+   <name>abc</name>
+   <screen_name>abc</screen_name>
+   <location></location>
+   <description></description>
+   <profile_image_url>https://secure.gravatar.com/avatar.php?gravatar_id=d2050bd6367d7917909e905773feb4e9&amp;default=https%3A%2F%2Ftheme2.status.net%2Fneo%2Fdefault-avatar-stream.png&amp;size=48</profile_image_url>
+   <url></url>
+   <protected>false</protected>
+   <followers_count>0</followers_count>
+   <friends_count>0</friends_count>
+   <created_at>Mon Oct 29 03:10:24 +0000 2012</created_at>
+   <favourites_count>1</favourites_count>
+   <utc_offset>0</utc_offset>
+   <time_zone>UTC</time_zone>
+   <statuses_count>3</statuses_count>
+   <following>true</following>
+   <statusnet:blocking>false</statusnet:blocking>
+   <notifications>true</notifications>
+   <statusnet:profile_url>https://abc-edu.status.net/abc</statusnet:profile_url>
+  </user>
+  <statusnet:html>$SF$1$ACK#201210281114$SF$</statusnet:html>
+  <statusnet:conversation_id>3</statusnet:conversation_id>
+ </status>
+</statuses>
+
