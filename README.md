@@ -1,4 +1,2 @@
-mrbot
-=====
-
-Experimental Bot (for research purpose)
+# Mr.Bot (for research/education purpose only)
+An Experimental Social Bot 
